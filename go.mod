@@ -1,4 +1,4 @@
-module github.com/bramvdbogaerde/go-scp
+module github.com/vucchaid/go-scp
 
 go 1.13
 
