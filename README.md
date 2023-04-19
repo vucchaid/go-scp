@@ -13,8 +13,8 @@ package main
 
 import (
 	"fmt"
-	scp "github.com/bramvdbogaerde/go-scp"
-	"github.com/bramvdbogaerde/go-scp/auth"
+	scp "github.com/vucchaid/go-scp"
+	"github.com/vucchaid/go-scp/auth"
 	"golang.org/x/crypto/ssh"
 	"os"
         "context"
